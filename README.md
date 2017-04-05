@@ -53,3 +53,4 @@ El contenido de esta página está escrito en un lenguaje de marcado sencillo ll
 
 ### Temas de Jekyll
 El estilo y presentación de esta página utiliza el tema de Jekyll seleccionado en la configuración del repositorio. El nombre de este tema está almacenado en el archivo de configuración `_config.yml`. Para más información acerca de los temas de Jekyll soportados por GitHub [haz click en este enlace](https://pages.github.com/themes/).
+hjg
